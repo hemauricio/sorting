@@ -1,2 +1,3 @@
-# sorting
-Sorting algorithms
+# Sorting algorithms in Python
+
+Collection of my implementations
